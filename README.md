@@ -1,6 +1,7 @@
 # Instructions
 
 ### Dependencies
+- Maven
 - Java 17
 
 ### Build
